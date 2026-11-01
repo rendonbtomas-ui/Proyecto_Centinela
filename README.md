@@ -3,7 +3,7 @@
 
 Alerta temprana de roya del cafeto combinando fotos de hojas y datos de clima.
 
-**Autor:** Tomás Rendón Bustamante - 
+**Autor:** Tomás Rendón Bustamante - Juan Sebastián Gamba Aguirre 
 **Programa:** Maestría en Ciencia de Datos, Universidad Santo Tomás
 **Curso:** Profundización I: Redes Neuronales — Deep Learning
 **Actividad:** Proyecto Centinela, Fase 1 (Módulo 1): línea base con un Perceptrón Multicapa (MLP)
